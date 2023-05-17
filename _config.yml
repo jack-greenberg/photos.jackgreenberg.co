@@ -1,7 +1,7 @@
 permalink: /:title
 paginate: 10
 paginate_path: /page/:num
-assets_url: https://photos.jackgreenberg.co.s3.amazonaws.com
+assets_url: https://photosjackgreenbergco.s3.amazonaws.com
 
 plugins:
   - jekyll-paginate
